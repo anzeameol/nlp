@@ -1,0 +1,26 @@
+{
+    "28": [
+        "To find the triangles area, we can use the formula for the areas of triangular regions. If the vertice points are A(0 ,0) ,B(- 2,1) and C(3 ,3), then the coordinates of points A, B, and B can be used to find its area.\nArea of triangle = (1/2) * |(xB - xA) | * (yC + yA)|\nIn this case, xB-xA \n= 4  and yC+yA=6 . So,\nThe area is ( 8 )\nTherefore, the given triangle has an area  of 5 square units."
+    ],
+    "29": [
+        "In the third year the company will invest half as much as it did in year 2, so it will spend 8,0, which is $40 on software. So the answer is 124,441."
+    ],
+    "30": [
+        "为了计算既喜欢蓝绿色也不喜欢的概率，我们需要计算喜欢蓝色的学生、喜欢绿色的学生的总和，以及喜欢两种颜色的学生。\n\n喜欢紫色的学生比例是：\n50%（喜欢紫色）= 59% (喜欢紫外线的) + 4% 的重叠\n因此，喜欢这两种颜色的学生的比例总计为：41%\n所以，不喜欢这两种颜色中的任何一种的概率是 100 - （40+44） =16%"
+    ],
+    "31": [
+        "To calculate the probabilities of rolling a particular total with two die, we can use the combination formula. In this case, there are two possible outcomes for each die roll (1 or 6). Therefore, the total possible combinations for rolling the two dices is 2*2 = 4.\n\nNow, let's consider the case where we want to roll at total of atleast 5. There are 1+1, 0+6, and 7+0 combinations that will give a result of 8. So, out of the 9 possible ways to combine the numbers - . This means that the chance of getting a number at leat ?3 is approximately  ..... (you need to fill in the number)\n \nTo get the exact probability, you would need the actual numbers of times each combination occurs, which would depend on the specific die you are using. But for the purposes of a quick estimate, this should give you the idea."
+    ],
+    "32": [
+        "我们可以通过以下步骤解决这个问题：\n\n1. 首先，我们需要找出在每一站之后公交车上的人数。\n2. 从这些信息中，我们可以找出每一站下车的人数和每一站上车的人数。这将帮助我们了解每一站的变动情况。 \n3. 最后，我们将使用这些信息来计算起点站上车的人数，因为我们需要知道总共有多少人前往了第三站的站点。  \n 让我们开始吧！\n   \n在起点站的公交车上有 x 人。第一站下车的人数是 x/2，4 人上了公交车，所以公交车上的人数为 x - x / 3 + 1 = x * 5 /3。现在我们知道在第二站时，公交车上是 x*5/3 人，6人下了公交车（所以有 x*(5)/3-6 人在车上），8人上了公交（所以在车上的人数为 x(5) /4）。由于我们知道共有24人前往第三个站点，因此 x (5 ) /12 等于 9（因为 72 / (6+8) ）\n现在我们需要找到 x 的值。我们可以使用以下方程： （x *5）/13= 0 ， x=26。所以，在开始时有 ?2 人登上了公交车"
+    ],
+    "33": [
+        "Let's first find the original number. When a Number is Divisible by Ten, it is written as 9x + 5, where x is a whole number and 0 <= x < 2. Here, x = 3, so the Number 75.\n\nNow, let' s find out the rest when the Original Number (7) is Divided by Four. \n7 ÷ 8 - 6 ... . Remainder --> ?\nTwice the given number (here ---> !7!)  is (2 * √7 )  and the Reminder when this number divided  by four is:\n(2*√(7)) ⁄ ¬†4 ‚Äì Ô¨Å2 ≈ <!--2-->2\nSo, when you double the initial number, you get the same remainder."
+    ],
+    "34": [
+        "小明购买的书籍分为三种类型：科幻小说、历史书籍和哲学书籍。我们可以分别计算每种类型书籍的总费用，然后将它们相加得到总花费。\n\n首先，我们计算科幻小说的总费用的：\n5 本科幻小说了，每一本2 0元，所以科幻类书籍的总价是 \n$5 \\times 1 \\cdot 8 = 60$ 元\n接下来，计算历史书的总价： 由于每本科幻想小说 价格是2元 ，那么每 本 历史 书的 价 格 是 9元。所以 总 费 用 是：$3 \\time 7 - .9 + ... 。 因此，历史类 书籍 的 总价 是 $3\\times3 ． ? （ 即 ） ￥ ？ ：90 ¥\n最后，我们来计算哲学书的费用：由于 每 本哲学 书 的价 是4 ！ 元， 那么 哲学类书 籍 的总价 就是 $2 \\ti ! ｛ ＝ ∴ ℎ ㎏ ≈ 等于 』 「 『 」 ９ 〇 元\n现在，我们将这三种类型的书籍的费用相加，以得到小明购买书籍的总体费用。$6 ０ ＋ ⑨ ○ ％ ２ － ④ ⑤ ① ② ③ ⑥ ⑦ ⑧ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ 【 】 ７ ８ 九十 十 百 千 万元 亿 元 人民币 元 元"
+    ],
+    "35": [
+        "首先，我们需要将给定的 x 值代入函数 f（x）中。\n\nf(1)=4(3)-9(0)+1=1\n所以，f（2）=f'( 2^2 )=256-18-511 + 8=-30。"
+    ]
+}

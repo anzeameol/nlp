@@ -1,0 +1,10 @@
+{
+    "datapath": "./datasets/glue/wnli",
+    "modelpath": "./pretrained_models/bert-base-uncased",
+    "learning_rate": 3e-6,
+    "train_batch_size": 32,
+    "eval_batch_size": 32,
+    "num_train_epochs": 4,
+    "weight_decay": 0,
+    "max_length": 128
+}

@@ -1,0 +1,26 @@
+{
+    "28": [
+        "To find the area of a triangle given its three vertices, we can use the formula for the area of a triangle given by:\nArea = 1/2 * base * height\nwhere the base is any one side of the triangle and the height is the perpendicular distance from the opposite vertex to that side.\nWe can choose any side as the base of the triangle, but let's take the side joining the vertices (0, 0) and (3, 3) as the base. To find the height of the triangle, we need to draw a perpendicular line from the vertex (3, 3) to the opposite side (0, 0).\nUsing the slope-intercept form of the equation of a line, we can find the equation of the side joining the vertices (0, 0) and (3, 3) as:\ny - y1 = m(x - x1)\nwhere m is the slope of the line and (x1, y1) is a point on the line.\nSubstituting the values, we get:\ny - 0 = m(x - 0)\ny = mx\nSince the slope of this line is the same as the slope of the line joining the vertices (0, 0) and (3, 3), we can write:\nm = (y2 - y1)/(x2 - x1) = (3 - 0)/(3 - 0) = 1\nSo, the equation of the side joining the vertices (0, 0) and (3, 3) is:\ny = x\nNow, we need to find the equation of the perpendicular line from the vertex (3, 3) to the side (0, 0) to (3, 3). The slope of this line will be the negative reciprocal of the slope of the side, which is -1. Using the point-slope form of the equation of a line, we can write:\ny - y1 = m(x - x1)\ny - 3 = -1(x - 3)\ny = -x + 6\nSo, the equation of the perpendicular line from the vertex (3, 3) to the side (0, 0) to (3, 3) is:\ny = -x + 6\nNext, we need to find the intersection point of these two lines, which will give us the height of the triangle. Solving the system of equations formed by the equations of the two lines, we get:\nx = 3, y = 3\nSo, the intersection point is (3, 3), which is also the third vertex of the triangle.\nNow, we can find the area of the triangle using the formula:\nArea = 1/2 * base * height\nwhere the base is the length of the side joining the vertices (0, 0) and (3, 3), which is sqrt(9 + 9) = 3sqrt(2), and the height is the distance between the third vertex (3, 3) and the base, which is 3 - 0 = 3.\nTherefore, the area of the triangle is:\nArea = 1/2 * 3sqrt(2) * 3 = 9sqrt(2)/2 units squared."
+    ],
+    "29": [
+        "The startup invested $8000 in the first year and half of that amount in the second year, which is $8000 / 2 = $4000.\nTherefore, the total amount the startup invested in software development over the two years is $8000 + $4000 = $12000."
+    ],
+    "30": [
+        "首先，我们需要知道所有学生的比例，这是100%，因为所有的学生都必须属于这三种情况之一（喜欢蓝色，喜欢绿色，或者两者都喜欢）。然后我们可以使用互补概率的概念来计算不喜欢这两种颜色的学生的比例。\n\n喜欢蓝色的学生占总学生数的比例是58%，所以不喜欢蓝色的学生占总学生数的比例就是1 - 58% = 42%。\n同样地，喜欢绿色的学生占总学生数的比例是45%，所以不喜欢绿色的学生占总学生数的比例就是1 - 45% = 55%。\n最后，既喜欢蓝色又喜欢绿色的学生占总学生数的比例是22%，所以既不喜欢蓝色也不喜欢绿色的学生占总学生数的比例就是1 - 22% = 78%。\n\n但是，我们已经将这部分学生算了两次，所以我们需要将其减去一次，以避免重复计算。因此，实际既不喜欢蓝色也不喜欢绿色的学生占总学生数的比例是78% - 22% = 56%。这就是我们要求的答案。"
+    ],
+    "31": [
+        "To find the probability of rolling a total number that is at least 3 when rolling two dice, we need to count the number of outcomes in which this occurs and divide by the total number of possible outcomes.\nThere are 6 faces on each die, so there are 6 * 6 = 36 possible outcomes when rolling two dice.\nTo get a total of at least 3, we can either roll a pair of 1s or a pair of 2s, or we can roll one 1 and one 2, or we can roll one 1 and one 3, and so on up to rolling two 6s.\nThe number of ways to roll a pair of 1s is 1, the number of ways to roll a pair of 2s is 1, the number of ways to roll a pair of 3s is 1, and so on up to the number of ways to roll a pair of 6s, which is 1.\nSo the number of outcomes in which we roll a total of at least 3 is 1 + 1 + 1 + ... + 1 = 6.\nTherefore, the probability of rolling a total number that is at least 3 when rolling two dice is 6/36 = 1/6."
+    ],
+    "32": [
+        "首先，我们知道到了第三站时总共有25人。我们知道在第二站之前，车上的人数增加了4-6= -2。所以，在第二站之前，车上有25+2=27人。\n然后我们知道在第一站之前，车上的人数增加了0-4=-4。所以，在第一站之前，车上有27+4=31人。\n因此，答案是31人。"
+    ],
+    "33": [
+        "Let's call the number \"n\". We know that:\n\nn = 10q + 4 (where q is some integer)\n\nTo find the remainder when twice the number is divided by 4, we need to first calculate what 2n is:\n\n2n = 2(10q + 4) = 20q + 8\n\nNow we can use the fact that any multiple of 4 has a remainder of 0 when divided by 4 to simplify this expression:\n\n2n = 4(5q + 2) + 0\n\nTherefore, the remainder when twice the number is divided by 4 is always 0, regardless of the value of n. This is because 4 evenly divides into 2n."
+    ],
+    "34": [
+        "小明买科幻小说的总花费是 5 * 20 = <<5*20=100>>100 元。\n小明买历史书的总花费是 3 * 30 = <<3*30=90>>90 元。\n小明买哲学书的总花费是 2 * 45 = <<2*45=90>>90 元。\n\n所以，小明购买这些书的总费用是 100 + 90 + 90 = <<100+90+90=280>>280 元。"
+    ],
+    "35": [
+        "将 x=2 带入到函数 f(x) 中，得到：\nf(2) = 4 * 2^3 - 9 * 2 - 14 = 32 - 18 - 14 = 0\n因此，f(2) 的值为 0。"
+    ]
+}

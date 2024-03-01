@@ -1,0 +1,22 @@
+<center><font size =5>Introduction to NLP book note</font></center>
+<p align='right'>Nemo</p>
+
+![Alt text](images/note-15.jpg)
+![Alt text](images/note-16.jpg) 
+![Alt text](images/note-17.jpg)
+![Alt text](images/note-18.jpg)
+![Alt text](images/note-19.jpg) 
+![Alt text](images/note-20.jpg) 
+![Alt text](images/note-21.jpg) 
+![Alt text](images/note-22.jpg)
+![Alt text](images/note-23.jpg)
+![Alt text](images/note-24.jpg)
+![Alt text](images/note-25.jpg)
+![Alt text](images/note-26.jpg)
+![Alt text](images/note-27.jpg)
+![Alt text](images/note-28.jpg) 
+![Alt text](images/note-29.jpg) 
+![Alt text](images/note-30.jpg)
+![Alt text](images/note-31.jpg)
+![Alt text](images/note-32.jpg)
+![Alt text](images/note-33.jpg)
